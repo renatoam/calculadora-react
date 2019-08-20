@@ -1,3 +1,12 @@
+Calculadora criada seguindo as aulas de React do curso "React + Redux", da Udemy, com o professor Leonardo Moura Leitao.
+
+O objetivo principal é entender como organizar uma aplicação com React usando css, componentes, gerenciando o estado, etc.
+
+A calculadora simulada é a do Mac. 
+
+Abaixo, o readme padrão do CRA (Create React App): 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
